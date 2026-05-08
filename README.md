@@ -1,5 +1,12 @@
 # Markdown Dokumentation
 
+## Fordele ved at bruge Markdown
+
+* Det er let at forstå 
+    * Dette gælder for alle, da det fungerer på tværs af diverse platforme og programmer
+* Perfekt til noter og dokumentation
+* Hurtigere at skrive end formateret tekst
+
 # Markdown Øvelse
 
 **Formålet:**
