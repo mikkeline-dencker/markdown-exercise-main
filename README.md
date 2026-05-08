@@ -2,13 +2,14 @@
 
 ### Fordele ved at bruge Markdown
 
-* Det er let at forstå 
-    * Dette gælder for alle, da det fungerer på tværs af diverse platforme og programmer
-* Perfekt til noter og dokumentation
-* Hurtigere at skrive end formateret tekst
+- Det er let at forstå
+  - Dette gælder for alle, da det fungerer på tværs af diverse platforme og programmer
+- Perfekt til noter og dokumentation
+- Hurtigere at skrive end formateret tekst
 
 ### Kodeeksempler
-``` JavaScript
+
+```JavaScript
 const names = ["Mikkeline, Mathilde, Olivia og Emilia"];
 
 names.forEach((names) => {
@@ -16,7 +17,7 @@ names.forEach((names) => {
 });
 ```
 
-``` HTML
+```HTML
 <nav>
     <ul>
         <li><a href="index.html">Forside</a></li>
@@ -30,7 +31,8 @@ names.forEach((names) => {
 
 ![Lækre is](img/DAEECAEB-AC2D-4F48-8888-09B493450A47.jpg)
 
-### Citat 
+### Citat
 
 > "To live will be an awfully big adventure"
+>
 > - Peter Pan
