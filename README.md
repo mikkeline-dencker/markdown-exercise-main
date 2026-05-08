@@ -30,7 +30,7 @@ names.forEach((names) => {
 
 ![Lækre is](img/DAEECAEB-AC2D-4F48-8888-09B493450A47.jpg)
 
+### Citat 
 
-## For hjælp til hvordan du arbejder med Markdown Syntax - tjek [Markdownguide.org](https://www.markdownguide.org/basic-syntax/) 
-
-### Du kan også drage fordel af [Markdown Live Preview](https://markdownlivepreview.com/), som viser hvordan din tekst ville fremstå ved hjælp af Markdown.
+> "To live will be an awfully big adventure"
+> - Peter Pan
