@@ -1,11 +1,30 @@
 # Markdown Dokumentation
 
-## Fordele ved at bruge Markdown
+### Fordele ved at bruge Markdown
 
 * Det er let at forstå 
     * Dette gælder for alle, da det fungerer på tværs af diverse platforme og programmer
 * Perfekt til noter og dokumentation
 * Hurtigere at skrive end formateret tekst
+
+### Kodeeksempler
+``` JavaScript
+const names = ["Mikkeline, Mathilde, Olivia og Emilia"];
+
+names.forEach((names) => {
+    console.log(names);
+});
+```
+
+``` HTML
+<nav>
+    <ul>
+        <li><a href="index.html">Forside</a></li>
+        <li><a href="aboutus.html">Om os</a></li>
+        <li><a href="contact.html">Kontakt</a></li>
+    </ul>
+</nav>
+```
 
 # Markdown Øvelse
 
